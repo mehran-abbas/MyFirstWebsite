@@ -1,0 +1,231 @@
+/*##############################Tags Selectors#########################*/
+body {
+  margin: 0%;
+  padding: 5px;
+  background-color: #beeff8;
+  font-family: "Merriweather", serif;
+  color: rgb(10, 10, 10);
+}
+
+h1 {
+  margin-top: 0%;
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+  color: rgb(34, 235, 168);
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+hr {
+
+  border: none;
+  border-top: solid;
+    color: rgb(34, 235, 168);
+  
+}
+
+/*###############################Classes selectirs######################*/
+.top {
+  text-align: center;
+}
+.topcontainer {
+  position: relative;
+  padding-top: 220px;
+}
+.topPara {
+  font-size: 25px;
+  color: rgb(34, 235, 168);
+}
+
+.profilepic 
+{
+  border-radius: 100px;
+  position: relative;
+  width: 120px;
+  margin: 0px;
+}
+
+ 
+.navbar{
+  top:0px;  
+padding-bottom: 40px;
+ right: 200x;
+}
+
+.navAbout{
+  position: absolute;
+  top: 60px;
+  right: 300px;
+}
+
+.navWork{
+  position: absolute;
+  right: 200px;
+  top: 60px;
+}
+
+.navNotes{
+  position: absolute;
+  right: 100px;
+  top: 60px;
+}
+
+.navHr
+{
+  border: none;
+  border-top: solid;
+  position: absolute;
+  border-width: 2px;
+  border:solid;
+  top: 140px;
+ width: 100%;
+ margin: 0px;
+ 
+}
+
+.abvnav{
+  
+  border: none;
+  border-top: solid;
+  border-width: 5px;
+  color: rgb(34, 235, 168);
+  top: 10px;
+  margin: 0px;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cldtop {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.cldtop1 {
+  position: relative;
+  top: 80px;
+  left: 300px;
+}
+.cldbottom {
+  position: absolute;
+  left: 300px;
+}
+
+.test{
+  position: absolute;
+  left: 60px;
+  top: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  color: rgb(26, 117, 67);
+  margin: 0;
+}
+
+.dsdg{
+  text-decoration: underline;
+  color: rgb(51, 136, 89);
+}
+
+.dsdg:hover{
+  color: red;
+ }
+
+.middlecontainer
+{
+text-align: center;
+  padding:50px;
+  margin: auto 0;
+} 
+.bottomcontainer
+{
+text-align: center;
+  padding:100px;
+  margin: auto 0;
+} 
+.footer-link{
+  padding: 10px;
+}
+.btn
+{
+  position: relative;
+  top: 80px;
+   padding: 20px;
+  color: green;
+  font-size: 20px;
+}
+.btn:hover
+{
+   color: red;
+  font-size: 25px;
+}
+
+
+
+.instagram{
+  width: 40px;
+}
+
+.twitter{
+  width: 40px;
+}
+
+.website{
+  width: 40px;
+}
+
+.instagram:hover{
+
+  width: 60px;
+ 
+}
+
+.twitter:hover{
+
+  width: 60px;
+}
+
+.website:hover{
+
+  width: 60px;
+}
+
+
+
+
+.firepic{
+  position: relative;
+  width:   300px;
+  height: 300px;
+border: 0px;
+}
+
+.cppic{
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border: 0px; 
+}
+
+.h3skill1
+{
+  font-size: 20px;
+}
+
+.git
+{
+  width: 300px;
+}
+
+.fnsz30{
+  font-size: 30px;
+}
